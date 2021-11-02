@@ -1,5 +1,13 @@
 # Change Log
 
+## 2.3.1
+
+### Patch Changes
+
+- [`c3f016149`](https://github.com/chakra-ui/chakra-ui/commit/c3f01614929d2f68a39cf78111d17f4f4c684706)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - fix(popper): allow
+  useCallback to do its thing
+
 ## 2.3.0
 
 ### Minor Changes

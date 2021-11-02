@@ -58,7 +58,7 @@
   },
   "devDependencies": {
     "@chakra-ui/system": "1.7.5",
-    "@chakra-ui/test-utils": "1.0.36",
+    "@chakra-ui/test-utils": "1.0.37",
     "@chakra-ui/theme": "*",
     "jest-matchmedia-mock": "^1.0.1",
     "react": "^17.0.1"
